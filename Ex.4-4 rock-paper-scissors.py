@@ -26,6 +26,7 @@ scissors = '''
 '''
 game_images = [rock, paper, scissors]
 
+
 choice = int(input("What do you choose? Type 0 for Rock, type 1 for Paper or type 2 for Scissors.\n"))
 
 if choice >=3 or choice < 0:
