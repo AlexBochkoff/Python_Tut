@@ -1,5 +1,8 @@
 #Step 5
-from replit import clear
+# from replit import clear
+import os
+clear = lambda: os.system('cls')
+
 import random
 
 #TODO-1: - Update the word list to use the 'word_list' from hangman_words.py
@@ -8,7 +11,7 @@ import random
 # import hangman_words
 # chosen_word = random.choice(hangman_words.word_list)
 
-from hangman_words import word_list
+from Hangman_Words import word_list
 chosen_word = random.choice(word_list)
 
 word_length = len(chosen_word)
@@ -18,7 +21,7 @@ lives = 6
 
 #TODO-3: - Import the logo from hangman_art.py and print it at the start of the game.
 
-from hangman_art import logo, stages
+from HangmanArt import logo, stages
 print(logo)
 
 #Testing code
@@ -41,7 +44,7 @@ while not end_of_game:
     #Check guessed letter
     for position in range(word_length):
         letter = chosen_word[position]
-        print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
+        # print(f"Current position: {position}\n Current letter: {letter}\n Guessed letter: {guess}")
         if letter == guess:
             display[position] = letter
 

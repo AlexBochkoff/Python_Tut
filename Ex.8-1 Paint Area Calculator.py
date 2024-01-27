@@ -1,8 +1,9 @@
 #Write your code below this line 👇
 
-import math
+import math as m
+
 def paint_calc(height, width, cover):
-  result = math.ceil((height * width) / cover) # ceil function rounds up to nearest integer number.
+  result = m.ceil((height * width) / cover) # ceil function rounds up to nearest integer number.
   print(f"You'll need {result} cans of paint.")
 
 #Write your code above this line 👆
