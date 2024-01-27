@@ -14,14 +14,14 @@ for _ in range (word_length):
 
 print(display)
 
-guess = input("Guess a letter: ").lower() 
+guess = input("Guess a letter: ").lower()
 
 for position in range (word_length):
   letter = chosen_word[position]
   if letter == guess:
     display[position] = letter
   
-print(display)    
+print(display)
 
 #TODO-1: - Create an empty List called display.
 #For each letter in the chosen_word, add a "_" to 'display'.

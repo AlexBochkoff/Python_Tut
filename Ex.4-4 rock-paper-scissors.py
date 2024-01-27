@@ -1,3 +1,5 @@
+import random
+
 rock = '''
     _______
 ---'   ____)
@@ -34,16 +36,15 @@ if choice >=3 or choice < 0:
 else:
     print(game_images[choice])
 
-    print("\nComputer chose:\n")    
-
-    import random
     machine_choice = random.randint(0,2)
 
+    print("\nComputer chose:\n")    
     print(game_images[machine_choice])
 
 
     # Not mine:
-
+    # if user_choice >= 3 or user_choice < 0: 
+    #   print("You typed an invalid number, you lose!")
     if choice == 0 and machine_choice == 2:
         print("\nYou win!")
     elif choice == 2 and machine_choice == 0:
