@@ -40,7 +40,15 @@ else:
 
     print("\nComputer chose:\n")    
     print(game_images[machine_choice])
+<<<<<<< HEAD
     
+=======
+
+
+    # Not mine:
+    # if user_choice >= 3 or user_choice < 0: 
+    #   print("You typed an invalid number, you lose!")
+>>>>>>> f78e0937583423b5aa5f0d5e03524b680de5d9f5
     if choice == 0 and machine_choice == 2:
         print("\nYou win!")
     elif choice == 2 and machine_choice == 0:

@@ -11,8 +11,13 @@ for n in range(0, len(student_heights)):
 total_height = 0
 number_of_students = 0
 
+<<<<<<< HEAD
 for height in student_heights:
     total_height = total_height + height
+=======
+for hight in student_heights:
+    total_hight = total_hight + hight
+>>>>>>> f78e0937583423b5aa5f0d5e03524b680de5d9f5
     # total_hight += hight
   
 for student in student_heights:
