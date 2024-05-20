@@ -23,7 +23,6 @@ e = lower_case_string.count("e")
 
 love = l + o + v + e
 
-# Mine:
 total_score = str(true) + str(love)
 final_score = int(total_score)
 

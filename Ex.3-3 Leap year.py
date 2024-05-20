@@ -21,10 +21,6 @@ else:
     print("Not leap year.")
 
 
-
-
-
-
 # Multiple If and Nested If Example
 
 # print("Welcome to the rollercoaster!")
