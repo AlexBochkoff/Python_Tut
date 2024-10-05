@@ -1,8 +1,8 @@
 from question_model import Question     # Creating instances of questions
 from data import question_data          # DB or data we use in our quiz
-from quiz_brain import QuizBrain        # The main logic of quiz and main.py just connects it all
+from quiz_brain import QuizBrain        # The main logic of quiz and pandas.py just connects it all
 """
-OOP with its modularity in its best. Only main.py knows how each of the classes works or behaves. Our quiz_brain.py 
+OOP with its modularity in its best. Only pandas.py knows how each of the classes works or behaves. Our quiz_brain.py 
 doesn't need to be changed at all when we change our data.py over.
 """
 question_bank = []

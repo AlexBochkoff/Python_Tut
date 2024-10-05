@@ -54,7 +54,6 @@ draw_spirograph(1)
 #         timmy.forward(100)
 #         timmy.right(angle)
 #
-#
 # for shape_side_n in range(3, 11):
 #     draw_shape(shape_side_n)
 #     timmy.color(random.choice(colours))
