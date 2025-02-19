@@ -37,7 +37,7 @@ if direction1 == "left":
     # swim = "Swim".lower()
 
     if action1 == "wait":
-        print("A boat has arrived. And now you can safly cross over the lake.")
+        print("A boat has arrived. And now you can safely cross over the lake.")
         print("After some time you have reached a house with three doors: red, yellow, and blue.")
         choice1 = input("Which door would you choose?\n").lower()
 

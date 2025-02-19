@@ -9,7 +9,7 @@
 # my_screen = Screen() # An Object of the Class <<< when we create an object an instance of a screen appeared.
 # print(my_screen.canvheight) # Object.Attribute
 #
-# my_screen.exitonclick() #when this method is called, the screen will be visible and it will be hidden after a click on it.
+# my_screen.exitonclick() #when this method is called, the screen will be visible, and it will be hidden after a click on it.
 
 
 from prettytable import PrettyTable

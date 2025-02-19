@@ -10,6 +10,8 @@ def encrypt(plain_text, shift_amount):
         position = alphabet.index(letter)
         new_position = position + shift_amount
         cipher_text += alphabet[new_position]
+        # shifted_position %= len(alphabet) -- if alphabet has only one set of letters
+        # output_text += alphabet[shifted_position]
     print(f"The encoded text is {cipher_text}")
 
 #TODO-1: Create a different function called 'decrypt' that takes the 'text' and 'shift' as inputs.

@@ -4,15 +4,119 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63b3327-e015-4518-b70e-03bb5f2bbeec" name="Changes" comment="" />
+    <list default="true" id="f63b3327-e015-4518-b70e-03bb5f2bbeec" name="Changes" comment="Changing PC">
+      <change afterPath="$PROJECT_DIR$/Ex.12 (Scope)/Debugger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex.12 (Scope)/maths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Ex.24/new_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.1-2/Ex.1-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.1-2 (Data types, Variables)/Ex.1-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.1-2/Ex.1-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.1-2 (Data types, Variables)/Ex.1-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.1-2/Ex.1-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.1-2 (Data types, Variables)/Ex.1-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.1-2/Ex.2-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.1-2 (Data types, Variables)/Ex.2-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.1-2/Ex.2-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.1-2 (Data types, Variables)/Ex.2-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.1-2/Ex.2-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.1-2 (Data types, Variables)/Ex.2-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.1-2/Ex.2-4 Tips calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.1-2 (Data types, Variables)/Ex.2-4 Tips calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.10/CalculatorArt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.10 (Functions with outputs)/CalculatorArt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.10/Ex.10-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.10 (Functions with outputs)/Ex.10-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.10/Ex.10-2 Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.10 (Functions with outputs)/Ex.10-2 Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.12/Ex.12 Number Guessing Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.12 (Scope)/Ex.12 Number Guessing Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.12/NumberGuessingArt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.12 (Scope)/NumberGuessingArt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.16 OOP Coffee Machine/Ex.16-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.16 Coffee Machine (OOP)/Ex.16-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.16 OOP Coffee Machine/coffee_maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.16 Coffee Machine (OOP)/coffee_maker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.16 OOP Coffee Machine/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.16 Coffee Machine (OOP)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.16 OOP Coffee Machine/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.16 Coffee Machine (OOP)/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.16 OOP Coffee Machine/money_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.16 Coffee Machine (OOP)/money_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.17 Quiz Project/Ex.17-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.17 Quiz Project/Ex.17-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.17 Quiz Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.17 Quiz Project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.17 Quiz Project/question_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.17 Quiz Project/question_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.18 Hirst painting/Ex.18-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.18 Hirst painting (Turtle and GUI)/Ex.18-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.18 Hirst painting/image.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.18 Hirst painting (Turtle and GUI)/image.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.18 Hirst painting/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.18 Hirst painting (Turtle and GUI)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.18 Hirst painting/not mine main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.18 Hirst painting (Turtle and GUI)/not mine main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.19-1 Etch-A-Scatch/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.19-1 Etch-A-Scatch (instances, state and higher order funcs)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.20-21 Snake Game/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.20-21 Snake Game (inheritance, list slicing, tuples)/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.20-21 Snake Game/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.20-21 Snake Game (inheritance, list slicing, tuples)/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.20-21 Snake Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.20-21 Snake Game (inheritance, list slicing, tuples)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.20-21 Snake Game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.20-21 Snake Game (inheritance, list slicing, tuples)/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.20-21 Snake Game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.20-21 Snake Game (inheritance, list slicing, tuples)/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Ex.24/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Ex.24/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Ex.24/my_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Ex.24/my_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Ex.24/new_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Input/Letters/starting_letter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Input/Letters/starting_letter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Input/Names/invited_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Input/Names/invited_names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Output/ReadyToSend/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Output/ReadyToSend/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Output/ReadyToSend/letter for Aang.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Output/ReadyToSend/letter for Aang.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Output/ReadyToSend/letter for Appa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Output/ReadyToSend/letter for Appa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Output/ReadyToSend/letter for Katara.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Output/ReadyToSend/letter for Katara.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Output/ReadyToSend/letter for Momo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Output/ReadyToSend/letter for Momo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Output/ReadyToSend/letter for Sokka.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Output/ReadyToSend/letter for Sokka.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Output/ReadyToSend/letter for Toph.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Output/ReadyToSend/letter for Toph.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Output/ReadyToSend/letter for Uncle Iroh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Output/ReadyToSend/letter for Uncle Iroh.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/Output/ReadyToSend/letter for Zuko.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/Output/ReadyToSend/letter for Zuko.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.24 Mail Merge Project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.24 Mail Merge Project (Files, Directories, Paths)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.25 US States/50_states.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.25 US States (csv, Pandas Lib)/50_states.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.25 US States/Excercise/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.25 US States (csv, Pandas Lib)/Excercise/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.25 US States/Excercise/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.25 US States (csv, Pandas Lib)/Excercise/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.25 US States/Excercise/squirrel_count.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.25 US States (csv, Pandas Lib)/Excercise/squirrel_count.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.25 US States/Excercise/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.25 US States (csv, Pandas Lib)/Excercise/weather_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.25 US States/blank_states_img.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.25 US States (csv, Pandas Lib)/blank_states_img.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.25 US States/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.25 US States (csv, Pandas Lib)/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.3/Ex.3-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.3 (Control Flow, Conditional and Logical Operators)/Ex.3-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.3/Ex.3-2 BMI calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.3 (Control Flow, Conditional and Logical Operators)/Ex.3-2 BMI calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.3/Ex.3-3 Leap year.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.3 (Control Flow, Conditional and Logical Operators)/Ex.3-3 Leap year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.3/Ex.3-4 Pizza Order.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.3 (Control Flow, Conditional and Logical Operators)/Ex.3-4 Pizza Order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.3/Ex.3-5 Love Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.3 (Control Flow, Conditional and Logical Operators)/Ex.3-5 Love Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.3/Ex.3-6 Treasure Island.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.3 (Control Flow, Conditional and Logical Operators)/Ex.3-6 Treasure Island.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.4/Ex.4-1 Heads or Tails.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.4 (Randomization)/Ex.4-1 Heads or Tails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.4/Ex.4-2 Banker roulette.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.4 (Randomization)/Ex.4-2 Banker roulette.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.4/Ex.4-3 Treasure map.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.4 (Randomization)/Ex.4-3 Treasure map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.4/Ex.4-4 rock-paper-scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.4 (Randomization)/Ex.4-4 rock-paper-scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.5/Ex.5-1 Avrg height.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.5 (Loops)/Ex.5-1 Avrg height.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.5/Ex.5-2 Highest Score.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.5 (Loops)/Ex.5-2 Highest Score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.5/Ex.5-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.5 (Loops)/Ex.5-3 Gauss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.5/Ex.5-4 FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.5 (Loops)/Ex.5-4 FizzBuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.5/Ex.5-5 (password generator).py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.5 (Loops)/Ex.5-5 (password generator).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.6/Ex.6 While loop + Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.6 (Functions)/Ex.6 While loop + Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.8/CaesarCipherArt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.8 (Function parameters)/CaesarCipherArt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.8/Ex.8-1 Paint Area Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.8 (Function parameters)/Ex.8-1 Paint Area Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.8/Ex.8-2 Prime Number Checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.8 (Function parameters)/Ex.8-2 Prime Number Checker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.8/Ex.8-3 Caesar cipher 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.8 (Function parameters)/Ex.8-3 Caesar cipher 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.8/Ex.8-3 Caesar cipher 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.8 (Function parameters)/Ex.8-3 Caesar cipher 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.8/Ex.8-3 Caesar cipher 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.8 (Function parameters)/Ex.8-3 Caesar cipher 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.8/Ex.8-3 Caesar cipher 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.8 (Function parameters)/Ex.8-3 Caesar cipher 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.9/BlindAuctionArt.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.9 (Dictionaries, nesting)/BlindAuctionArt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.9/Ex.9-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.9 (Dictionaries, nesting)/Ex.9-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.9/Ex.9-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.9 (Dictionaries, nesting)/Ex.9-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex.9/Ex.9-3 Blind auction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex.9 (Dictionaries, nesting)/Ex.9-3 Blind auction.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexBochkoff&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:AlexBochkoff/Python_Tut.git&quot;,
+    &quot;accountId&quot;: &quot;5c5b3907-17d5-42aa-9193-21f476b849d1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -21,18 +125,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Repos/Python_Tut&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Debugger.executor": "Run",
+    "Python.Ex.1-3.executor": "Run",
+    "Python.Ex.2-1.executor": "Run",
+    "Python.Ex.2-3.executor": "Run",
+    "Python.Ex.3-3 Leap year.executor": "Run",
+    "Python.Ex.4-3 Treasure map.executor": "Run",
+    "Python.Ex.5-1 Avrg height.executor": "Run",
+    "Python.Ex.5-2 Highest Score.executor": "Run",
+    "Python.Ex.5-4 FizzBuzz.executor": "Run",
+    "Python.Ex.5-5 (password generator).executor": "Run",
+    "Python.Ex.7-1 Hangman.executor": "Run",
+    "Python.Ex.7-2 Hangman.executor": "Run",
+    "Python.Ex.7-5 Hangman.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Repos/Python_Tut",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -45,6 +164,15 @@
       <option name="presentableId" value="Default" />
       <updated>1728031466066</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changing PC">
+      <option name="closed" value="true" />
+      <created>1728168757548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728168757548</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +185,28 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changing PC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing PC" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex.3 (Control Flow, Conditional and Logical Operators)/Ex.3-2 BMI calculator.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex.18 Hirst painting (Turtle and GUI)/not mine main.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Ex.19-2 Turtle Run/main.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

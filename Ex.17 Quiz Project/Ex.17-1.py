@@ -1,4 +1,4 @@
-class User:  # initializing - setting starting values
+class User:  # initializing - setting starting values; in Pascal case
 
     def __init__(self, user_id, username):  # Constructor method that initializes the class object with attributes
         self.id = user_id

@@ -10,8 +10,8 @@ question_bank = []
 for question in question_data:
     question_text = question["question"]  # previously: text
     question_answer = question["correct_answer"]  # previously: answer
-    new_que = Question(question_text, question_answer)
-    question_bank.append(new_que)
+    new_question = Question(question_text, question_answer)
+    question_bank.append(new_question)
 
 quiz = QuizBrain(question_bank)
 
